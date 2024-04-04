@@ -3,8 +3,7 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=afutofu&label=Profile%20views&color=0e75b6&style=flat" alt="afutofu" /> </div>
 <h1 align="center">Hi 👋, I'm Afuza</h1>
 <h3 align="center">Passionate software engineer with a variety of skills and interests. Always eager to learn new technologies.</h3>
-<img align="right" alt="Coding" width="230" src="https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif"/>
-
+<img align="right" alt="Coding" width="225" src="https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif"/>
 
 - 🔭 I’m currently working on [GoalForge](https://github.com/afutofu/goalforge)
 
@@ -32,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb,rds"/><br/>
   <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,git,github,figma"/><br/>
 </a>
+...and more
 
 <h3>✨ Stats ✨</h3>
 
