@@ -33,6 +33,8 @@
 </a>
 ...and more
 
+<h1/>
+
 <h3>✨ Stats ✨</h3>
 
 <div align="left">
