@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [GoalForge](https://github.com/afutofu/goalforge)
 
-- 🌱 I’m currently learning **DS + Algo**
+- 👨‍💻 I’m currently practicing **Data Structures & Algorithms**
 
-- 👨‍💻 I'm planning to learn **DevOps**
+- 🌱 I'm planning to learn **DevOps**
 
 - 📖 I'm currently studying **Computer Science** at the **University of Washington - Seattle**
 
