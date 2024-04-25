@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/7f/b9/33/7fb933612523de24e722e904c4c2b8bd.png)](https://afutofu.github.io)
-
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=afutofu&label=Profile%20views&color=0e75b6&style=flat" alt="afutofu" /> </div>
 <h1 align="center">Hi 👋, I'm Afuza</h1>
 <h3 align="center">Passionate software engineer with a variety of skills and interests. Always eager to learn new technologies.</h3>
@@ -25,7 +23,7 @@
 
 <h3 align="left">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,py,java,cs,cpp,c,sql"/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,py,ocaml,java,cs,cpp,c,sql"/><br/>
   <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,styledcomponents,bootstrap,jquery,"/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,docker,aws,sequelize"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb,rds"/><br/>
