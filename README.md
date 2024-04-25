@@ -1,3 +1,5 @@
+[![MasterHead](https://i.pinimg.com/originals/7f/b9/33/7fb933612523de24e722e904c4c2b8bd.png)](https://afutofu.github.io)
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=afutofu&label=Profile%20views&color=0e75b6&style=flat" alt="afutofu" /> </div>
 <h1 align="center">Hi 👋, I'm Afuza</h1>
 <h3 align="center">Passionate software engineer with a variety of skills and interests. Always eager to learn new technologies.</h3>
