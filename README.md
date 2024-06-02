@@ -11,7 +11,7 @@
 
 - 📖 I'm currently studying **Computer Science** at the **University of Washington - Seattle**
 
-- ⚡ Fun fact **I have never met anyone personally who can eat more food than me**
+- ⚡ Fun fact **I have never met anyone personally who can eat more food than me (so please come and challenge me!)**
   
 <div align="center">
   <a href="mailto:theafuza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -24,7 +24,7 @@
 <h3 align="left">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,py,ocaml,java,cs,cpp,c,sql"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,styledcomponents,bootstrap,jquery,"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,styledcomponents,bootstrap,jquery"/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,docker,aws,sequelize"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb,rds"/><br/>
   <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,git,github,figma"/><br/>
