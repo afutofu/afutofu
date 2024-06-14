@@ -25,7 +25,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,go,py,ocaml,java,cs,cpp,c,sql"/><br/>
   <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,styledcomponents,bootstrap,jquery"/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,docker,aws,sequelize,django,"/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,docker,aws,sequelize,django,"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb,rds"/><br/>
   <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,git,github,figma"/><br/>
 </a>
