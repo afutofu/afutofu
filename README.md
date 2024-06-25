@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GoalForge](https://github.com/afutofu/goalforge)
 
-- 👨‍💻 I’m currently learning **DSA**, **Go**, and **FastAPI**
+- 👨‍💻 I’m currently learning **Game development on the web**
 
 - 🌱 I'm planning to learn **DevOps**
 
