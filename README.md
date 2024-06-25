@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently learning **Game development on the web**
 
-- 🌱 I'm planning to learn **DevOps**
+- 🌱 I'm planning to learn **Caching** and **DevOps**
 
 - 📖 I'm currently studying **Computer Science** at the **University of Washington - Seattle**
 
