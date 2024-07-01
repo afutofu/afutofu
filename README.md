@@ -3,9 +3,9 @@
 <h3 align="center">Passionate software engineer with a variety of skills and interests. Always eager to learn new technologies.</h3>
 <img align="right" alt="Coding" width="225" src="https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif"/>
 
-- 🔭 I’m currently working on [GoalForge](https://github.com/afutofu/goalforge)
+- 🔭 I’m currently working on [GoalForge](https://github.com/afutofu/goalforge) and [Return to Olympus](https://github.com/codetrifecta/rto-combat-simulator)
 
-- 👨‍💻 I’m currently learning **Game development on the web**
+- 👨‍💻 I’m currently learning **GameDev on the web**
 
 - 🌱 I'm planning to learn **Caching** and **DevOps**
 
