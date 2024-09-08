@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=afutofu&label=Profile%20views&color=0e75b6&style=flat" alt="afutofu" /> </div>
-<h1 align="center">Hi 👋, I'm Afuza</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://afutofu.github.io/">Afuza</a></h1>
 <h3 align="center">Passionate software engineer with a variety of skills and interests. Always eager to learn new technologies.</h3>
 <img align="right" alt="Coding" width="225" src="https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif"/>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently learning **Game Development**
 
-- 🌱 I'm planning to learn **Caching** and **DevOps**
+- 🌱 I'm planning to learn **Mobile Development** and **Devops**
 
 - 📖 I'm currently studying **Computer Science** at the **University of Washington - Seattle**
 
