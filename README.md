@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Rise to Olympus](https://github.com/codetrifecta/rto-combat-simulator) and [GoalForge](https://github.com/afutofu/goalforge)
 
-- 👨‍💻 I’m currently learning **Game Development**
+- 👨‍💻 I’m currently learning **Mobile Development**
 
-- 🌱 I'm planning to learn **Mobile Development**
+- 🌱 I'm planning to learn **ML/AI**
 
 - 📖 I'm currently studying **Computer Science** at the **University of Washington - Seattle**
 
