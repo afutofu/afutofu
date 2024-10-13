@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Rise to Olympus](https://github.com/codetrifecta/rise-to-olympus), [GoalForge](https://github.com/afutofu/goalforge), and [FitQuest](https://github.com/cse403-fitquest/fitquest).
 
-- 👨‍💻 I’m currently learning **Mobile Development**
+- 👨‍💻 I’m currently learning **Mobile App Development**
 
 - 🌱 I'm planning to learn **ML/AI**
 
