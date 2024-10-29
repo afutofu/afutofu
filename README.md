@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently learning **Mobile App Development**
 
-- 🌱 I'm planning to learn **ML/AI**
+- 🌱 I'm planning to learn **Computer Vision**
 
 - 📖 I'm currently studying **Computer Science** at the **University of Washington - Seattle**
 
