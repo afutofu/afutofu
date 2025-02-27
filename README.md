@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [FitQuest](https://github.com/cse403-fitquest/fitquest), [Rise to Olympus](https://github.com/codetrifecta/rise-to-olympus), and [GoalForge](https://github.com/afutofu/goalforge).
 
-- 👨‍💻 I’m currently practicing **Data Structures and Algorithms**
+- 👨‍💻 I’m currently practicing **Computer Vision** and **Data Visualization**
 
-- 🌱 I'm planning to learn **Computer Vision** and **Data Visualization**
+- 🌱 I'm planning to learn **Distributed Systems** and **System Design**
 
 - 📖 I'm currently studying **Computer Science** at the **University of Washington - Seattle**
 
