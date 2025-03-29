@@ -3,7 +3,7 @@
 <h3 align="center">Passionate software engineer with a variety of skills and interests. Always eager to learn new technologies.</h3>
 <img align="right" alt="Coding" width="225" src="https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif"/>
 
-- 🔭 I’m currently maintaining [FitQuest](https://github.com/cse403-fitquest/fitquest), [Rise to Olympus](https://github.com/codetrifecta/rise-to-olympus), and [GoalForge](https://github.com/afutofu/goalforge).
+- 🔭 I’m currently maintaining [FitQuest](https://github.com/cse403-fitquest/fitquest) and [Rise to Olympus](https://github.com/codetrifecta/rise-to-olympus).
 
 - 👨‍💻 I’m currently learning **Distributed Systems** and **System Design**
 
