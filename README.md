@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I have never met anyone personally who can eat more food than me**
   
 <div align="center">
-  <a href="mailto:theafuza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:afuza299@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/afutofu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://afutofu.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </div>
@@ -24,9 +24,9 @@
 <h3 align="left">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,go,py,ocaml,java,cs,cpp,c,sql"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,styledcomponents,bootstrap,jquery"/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,docker,aws,sequelize,django,firebase"/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb,rds"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,styledcomponents,bootstrap,jquery,d3,jest,sentry,vite,vitest"/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,docker,aws,sequelize,django,firebase,graphql"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb,redis"/><br/>
   <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,git,github,figma"/><br/>
 </a>
 ...and more
