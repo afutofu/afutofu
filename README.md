@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently learning **Distributed Systems** and **System Design**
 
-- 🌱 I'm plan on building **IO Web Games**
+- 🌱 I plan on building **IO Web Games**
 
 - 📖 I'm currently studying **Computer Science** at the **University of Washington - Seattle**
 
