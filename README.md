@@ -24,7 +24,7 @@
 <h3 align="left">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,go,py,ocaml,java,cs,cpp,c,sql"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,styledcomponents,bootstrap,jquery,d3,jest,sentry,vite,vitest"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,ember,next,redux,tailwind,styledcomponents,bootstrap,jquery,d3,jest,vite,vitest,cypress,sentry"/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,docker,aws,sequelize,django,firebase,graphql"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb,redis"/><br/>
   <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,git,github,figma"/><br/>
